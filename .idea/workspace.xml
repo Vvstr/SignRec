@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bc03b29-a056-4ede-bed7-eb0ac4ea61f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manotorch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signbert/data_modules/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signbert/metrics/PCK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signbert/metrics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signbert/model/ArmsExtractor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signbert/model/MSG3DGestureExtractor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signbert/model/MediapipeHandPooling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signbert/model/PositionalEncoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signbert/model/SignBertModelManoTorch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signbert/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signbert/model/masked_batchnorm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signbert/utils.py" afterDir="false" />
-    </list>
+    <list default="true" id="7bc03b29-a056-4ede-bed7-eb0ac4ea61f7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,10 +13,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ma4ldKISGXSzTlpusZ857I6k1h" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,7 +26,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
