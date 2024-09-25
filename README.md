@@ -10,5 +10,5 @@ Pet project
 1) SignBert model
 2) екстракторы и предобработчики данных
 
-#Special thanks:
+# Special thanks:
 1)https://github.com/lixiny/manotorch
