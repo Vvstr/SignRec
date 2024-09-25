@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bc03b29-a056-4ede-bed7-eb0ac4ea61f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manotorch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signbert/data_modules/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signbert/metrics/PCK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signbert/metrics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signbert/model/ArmsExtractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signbert/model/MSG3DGestureExtractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signbert/model/MediapipeHandPooling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signbert/model/PositionalEncoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signbert/model/SignBertModelManoTorch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signbert/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signbert/model/masked_batchnorm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signbert/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ma4ldKISGXSzTlpusZ857I6k1h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bc03b29-a056-4ede-bed7-eb0ac4ea61f7" name="Changes" comment="" />
+      <created>1727301506346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727301506346</updated>
+    </task>
+    <servers />
+  </component>
+</project>

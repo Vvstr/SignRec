@@ -1,0 +1,5 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+signbert/model/thirdparty/mano_assets/mano_v1_2/models/SMPLH_female.pkl filter=lfs diff=lfs merge=lfs -text
+signbert/model/thirdparty/mano_assets/mano_v1_2/models/SMPLH_male.pkl filter=lfs diff=lfs merge=lfs -text
+manotorch/assets/anchor/anchor_mapping_path.pkl filter=lfs diff=lfs merge=lfs -text
+signbert/model/thirdparty/mano_assets/mano_v1_2/models/*.pkl filter=lfs diff=lfs merge=lfs -text
