@@ -1,2 +1,0 @@
-# SignRec
-Pet project
